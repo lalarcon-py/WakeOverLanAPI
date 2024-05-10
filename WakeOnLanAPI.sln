@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WakeOnLanAPI", "WakeOnLanAPI\WakeOnLanAPI.csproj", "{72755AA8-4D17-449A-81D8-7BF1F485584A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72755AA8-4D17-449A-81D8-7BF1F485584A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72755AA8-4D17-449A-81D8-7BF1F485584A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72755AA8-4D17-449A-81D8-7BF1F485584A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72755AA8-4D17-449A-81D8-7BF1F485584A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
