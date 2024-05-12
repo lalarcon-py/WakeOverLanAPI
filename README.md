@@ -8,4 +8,3 @@ Comprehensive Error Handling: Appropriate HTTP status codes and error messages a
 Asynchronous Operations: Asynchronous programming is employed throughout the codebase, ensuring efficient handling of I/O operations and improved scalability.
 
 To use this WoL API, simply make a POST request to the /WoL endpoint, providing the MAC address in the request body and the IP address as a query parameter. The API will respond with a success or failure message based on the outcome of the operation.
-Whether you're building a network management tool, a remote administration utility, or simply want to automate the process of waking up your computers, this WoL API provides a reliable and easy-to-use solution.
